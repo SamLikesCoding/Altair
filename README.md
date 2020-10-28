@@ -10,18 +10,18 @@ I've made three prototypes(TCP_Code, TCP_Code2 and UDP_Code), but directory stru
 
 To run server:
 ```
- cd Server
- python3 server.py
+$ cd Server
+$ python3 server.py
 ```
 
 To create project:
 ```
- python3 client.py plant 
+$ python3 client.py plant 
 ```
 
 To pull project:
 ```
- python3 client.py reap
+$ python3 client.py reap
 ```
 
 To test connection:
