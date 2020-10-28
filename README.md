@@ -14,17 +14,17 @@ cd Server
 python3 server.py
 ```
 
-To create project
+To create project:
 ```
  python3 client.py plant 
 ```
 
-To pull project
+To pull project:
 ```
  python3 client.py reap
 ```
 
-To test connection
+To test connection:
 ```
 $ python3 client.py test
 ```
