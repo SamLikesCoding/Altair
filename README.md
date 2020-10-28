@@ -10,8 +10,8 @@ I've made three prototypes(TCP_Code, TCP_Code2 and UDP_Code), but directory stru
 
 To run server:
 ```
-cd Server
-python3 server.py
+ cd Server
+ python3 server.py
 ```
 
 To create project:
