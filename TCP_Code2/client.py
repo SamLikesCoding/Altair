@@ -34,14 +34,6 @@ def argvalid(prompt_mesg, error_prompt, default_value='', ispasswd=False):
             return var
 
 
-class projectGraph:
-    """
-    docstring
-    """
-
-    def __init__(self):
-        self.sg = sg()
-
 
 class Seed:
 
